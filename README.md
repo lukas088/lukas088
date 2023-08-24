@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukas088&label=Profile%20views&color=0e75b6&style=flat" alt="lukas088" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukas088" alt="lukas088" /></a> </p>
-
 - 🔭 В настоящее время я работаю над [Tailwind](https://github.com/lukas088/Tailwind.git)
 
 - 📫 Как со мной связаться **Lukasggg22@gmail.com**
